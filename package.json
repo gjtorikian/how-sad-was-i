@@ -3,7 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "chartjs-node": "^1.6.0",
+    "csv": "^2.0.0",
+    "d3node-linechart": "0.0.7",
     "dotenv": "^2.0.0",
+    "fast-csv": "^2.4.1",
     "watson-developer-cloud": "^2.42.0"
   },
   "engines": {
