@@ -61,14 +61,9 @@ var twenty_seventeen_points = [[], [], [], [], []];
 for (var i = 1; i < 13; i++) {
   var twenty_sixteen_contents = fs.readFileSync("data/2016_" + i + ".json", "utf8");
   var twenty_sixteen_data = JSON.parse(twenty_sixteen_contents);
+  var twenty_seventeen_contents = fs.readFileSync("data/2017_" + i + ".json", "utf8");
+  var twenty_seventeen_data = JSON.parse(twenty_seventeen_contents);
 
-  if (i != 12) {
-    var twenty_seventeen_contents = fs.readFileSync("data/2017_" + i + ".json", "utf8");
-    var twenty_seventeen_data = JSON.parse(twenty_seventeen_contents);
-  }
-  else {
-    var twenty_seventeen_data = { personality: [{ percentile: 0 }, { percentile: 0 }, { percentile: 0 }, { percentile: 0 }, { percentile: 0 }] }; // not enough data
-  }
   for (var j = 0; j < PERSONALITIES.length; j++) {
     twenty_sixteen_points[j].push(Math.round(twenty_sixteen_data.personality[j].percentile.toFixed(2) * 100));
     twenty_seventeen_points[j].push(Math.round(twenty_seventeen_data.personality[j].percentile.toFixed(2) * 100));

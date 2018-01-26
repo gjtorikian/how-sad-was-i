@@ -1,48 +1,48 @@
 {
-  "word_count": 834,
+  "word_count": 815,
   "processed_language": "en",
   "personality": [
     {
       "trait_id": "big5_openness",
       "name": "Openness",
       "category": "personality",
-      "percentile": 0.5329664216130305,
+      "percentile": 0.5150058121496696,
       "children": [
         {
           "trait_id": "facet_adventurousness",
           "name": "Adventurousness",
           "category": "personality",
-          "percentile": 0.8393086224069952
+          "percentile": 0.8278327538622481
         },
         {
           "trait_id": "facet_artistic_interests",
           "name": "Artistic interests",
           "category": "personality",
-          "percentile": 0.5724766907948056
+          "percentile": 0.5372188394526027
         },
         {
           "trait_id": "facet_emotionality",
           "name": "Emotionality",
           "category": "personality",
-          "percentile": 0.22564437149087951
+          "percentile": 0.21553068313510254
         },
         {
           "trait_id": "facet_imagination",
           "name": "Imagination",
           "category": "personality",
-          "percentile": 0.7084476117096397
+          "percentile": 0.6908132602994965
         },
         {
           "trait_id": "facet_intellect",
           "name": "Intellect",
           "category": "personality",
-          "percentile": 0.6963612314292947
+          "percentile": 0.6820296349765826
         },
         {
           "trait_id": "facet_liberalism",
           "name": "Authority-challenging",
           "category": "personality",
-          "percentile": 0.8234558030913051
+          "percentile": 0.818003082796482
         }
       ]
     },
@@ -50,43 +50,43 @@
       "trait_id": "big5_conscientiousness",
       "name": "Conscientiousness",
       "category": "personality",
-      "percentile": 0.22632160140115137,
+      "percentile": 0.21620821493703363,
       "children": [
         {
           "trait_id": "facet_achievement_striving",
           "name": "Achievement striving",
           "category": "personality",
-          "percentile": 0.5172583497632709
+          "percentile": 0.512399645786658
         },
         {
           "trait_id": "facet_cautiousness",
           "name": "Cautiousness",
           "category": "personality",
-          "percentile": 0.26697170769134165
+          "percentile": 0.26708787701132186
         },
         {
           "trait_id": "facet_dutifulness",
           "name": "Dutifulness",
           "category": "personality",
-          "percentile": 0.14121388410019353
+          "percentile": 0.13751773486190905
         },
         {
           "trait_id": "facet_orderliness",
           "name": "Orderliness",
           "category": "personality",
-          "percentile": 0.41982663050993146
+          "percentile": 0.410436413573652
         },
         {
           "trait_id": "facet_self_discipline",
           "name": "Self-discipline",
           "category": "personality",
-          "percentile": 0.3251341870916822
+          "percentile": 0.31171881222063247
         },
         {
           "trait_id": "facet_self_efficacy",
           "name": "Self-efficacy",
           "category": "personality",
-          "percentile": 0.7669369920438491
+          "percentile": 0.7765657464356579
         }
       ]
     },
@@ -94,43 +94,43 @@
       "trait_id": "big5_extraversion",
       "name": "Extraversion",
       "category": "personality",
-      "percentile": 0.49843428159331016,
+      "percentile": 0.4782830808921691,
       "children": [
         {
           "trait_id": "facet_activity_level",
           "name": "Activity level",
           "category": "personality",
-          "percentile": 0.653788640349755
+          "percentile": 0.6542658423970518
         },
         {
           "trait_id": "facet_assertiveness",
           "name": "Assertiveness",
           "category": "personality",
-          "percentile": 0.739681923682528
+          "percentile": 0.7515459512181164
         },
         {
           "trait_id": "facet_cheerfulness",
           "name": "Cheerfulness",
           "category": "personality",
-          "percentile": 0.29401745790791034
+          "percentile": 0.311941265309713
         },
         {
           "trait_id": "facet_excitement_seeking",
           "name": "Excitement-seeking",
           "category": "personality",
-          "percentile": 0.5595275851491635
+          "percentile": 0.5623348794508096
         },
         {
           "trait_id": "facet_friendliness",
           "name": "Outgoing",
           "category": "personality",
-          "percentile": 0.6636178798329021
+          "percentile": 0.6769931247555641
         },
         {
           "trait_id": "facet_gregariousness",
           "name": "Gregariousness",
           "category": "personality",
-          "percentile": 0.48333919784190643
+          "percentile": 0.5086156564220086
         }
       ]
     },
@@ -138,43 +138,43 @@
       "trait_id": "big5_agreeableness",
       "name": "Agreeableness",
       "category": "personality",
-      "percentile": 0.10870985315475595,
+      "percentile": 0.09745795452207096,
       "children": [
         {
           "trait_id": "facet_altruism",
           "name": "Altruism",
           "category": "personality",
-          "percentile": 0.2955928667335842
+          "percentile": 0.2757190019515623
         },
         {
           "trait_id": "facet_cooperation",
           "name": "Cooperation",
           "category": "personality",
-          "percentile": 0.3384379458309972
+          "percentile": 0.31287352551814385
         },
         {
           "trait_id": "facet_modesty",
           "name": "Modesty",
           "category": "personality",
-          "percentile": 0.02892253014033075
+          "percentile": 0.029156505185210513
         },
         {
           "trait_id": "facet_morality",
           "name": "Uncompromising",
           "category": "personality",
-          "percentile": 0.1870221008474247
+          "percentile": 0.18354390233505785
         },
         {
           "trait_id": "facet_sympathy",
           "name": "Sympathy",
           "category": "personality",
-          "percentile": 0.4107069410036176
+          "percentile": 0.4132397295915771
         },
         {
           "trait_id": "facet_trust",
           "name": "Trust",
           "category": "personality",
-          "percentile": 0.6396387163191625
+          "percentile": 0.634628336819157
         }
       ]
     },
@@ -182,43 +182,43 @@
       "trait_id": "big5_neuroticism",
       "name": "Emotional range",
       "category": "personality",
-      "percentile": 0.3990055770386656,
+      "percentile": 0.4023792945481435,
       "children": [
         {
           "trait_id": "facet_anger",
           "name": "Fiery",
           "category": "personality",
-          "percentile": 0.7120076756192587
+          "percentile": 0.7140197879115432
         },
         {
           "trait_id": "facet_anxiety",
           "name": "Prone to worry",
           "category": "personality",
-          "percentile": 0.456507148691884
+          "percentile": 0.44553260632650316
         },
         {
           "trait_id": "facet_depression",
           "name": "Melancholy",
           "category": "personality",
-          "percentile": 0.4124990340636671
+          "percentile": 0.4328002590985474
         },
         {
           "trait_id": "facet_immoderation",
           "name": "Immoderation",
           "category": "personality",
-          "percentile": 0.4976183795854204
+          "percentile": 0.48765982536952723
         },
         {
           "trait_id": "facet_self_consciousness",
           "name": "Self-consciousness",
           "category": "personality",
-          "percentile": 0.514460989446276
+          "percentile": 0.5098451784256088
         },
         {
           "trait_id": "facet_vulnerability",
           "name": "Susceptible to stress",
           "category": "personality",
-          "percentile": 0.3538832850003712
+          "percentile": 0.34387749871032747
         }
       ]
     }
@@ -228,73 +228,73 @@
       "trait_id": "need_challenge",
       "name": "Challenge",
       "category": "needs",
-      "percentile": 0.7465453499376571
+      "percentile": 0.7595486456932581
     },
     {
       "trait_id": "need_closeness",
       "name": "Closeness",
       "category": "needs",
-      "percentile": 0.12787606589779305
+      "percentile": 0.11918270839159767
     },
     {
       "trait_id": "need_curiosity",
       "name": "Curiosity",
       "category": "needs",
-      "percentile": 0.6346519467026492
+      "percentile": 0.6273355572121012
     },
     {
       "trait_id": "need_excitement",
       "name": "Excitement",
       "category": "needs",
-      "percentile": 0.23612424791176634
+      "percentile": 0.24864688022488568
     },
     {
       "trait_id": "need_harmony",
       "name": "Harmony",
       "category": "needs",
-      "percentile": 0.35932412328787067
+      "percentile": 0.3649716508121229
     },
     {
       "trait_id": "need_ideal",
       "name": "Ideal",
       "category": "needs",
-      "percentile": 0.5867004385891035
+      "percentile": 0.5977970515133653
     },
     {
       "trait_id": "need_liberty",
       "name": "Liberty",
       "category": "needs",
-      "percentile": 0.3963123307587785
+      "percentile": 0.4078640055273774
     },
     {
       "trait_id": "need_love",
       "name": "Love",
       "category": "needs",
-      "percentile": 0.2160912560050391
+      "percentile": 0.20174264816234017
     },
     {
       "trait_id": "need_practicality",
       "name": "Practicality",
       "category": "needs",
-      "percentile": 0.6869672565704124
+      "percentile": 0.7069227465774885
     },
     {
       "trait_id": "need_self_expression",
       "name": "Self-expression",
       "category": "needs",
-      "percentile": 0.26365609810436563
+      "percentile": 0.25799174929208535
     },
     {
       "trait_id": "need_stability",
       "name": "Stability",
       "category": "needs",
-      "percentile": 0.13471371829586815
+      "percentile": 0.1331931477338874
     },
     {
       "trait_id": "need_structure",
       "name": "Structure",
       "category": "needs",
-      "percentile": 0.5895677435665299
+      "percentile": 0.5988096432117688
     }
   ],
   "values": [
@@ -302,34 +302,34 @@
       "trait_id": "value_conservation",
       "name": "Conservation",
       "category": "values",
-      "percentile": 0.23875818445294483
+      "percentile": 0.2477457194124083
     },
     {
       "trait_id": "value_openness_to_change",
       "name": "Openness to change",
       "category": "values",
-      "percentile": 0.421412049942432
+      "percentile": 0.4033512713565264
     },
     {
       "trait_id": "value_hedonism",
       "name": "Hedonism",
       "category": "values",
-      "percentile": 0.3711171124253737
+      "percentile": 0.3745457637684806
     },
     {
       "trait_id": "value_self_enhancement",
       "name": "Self-enhancement",
       "category": "values",
-      "percentile": 0.6356051622996264
+      "percentile": 0.6387172921592569
     },
     {
       "trait_id": "value_self_transcendence",
       "name": "Self-transcendence",
       "category": "values",
-      "percentile": 0.32434974499623004
+      "percentile": 0.32880649285431474
     }
   ],
   "warnings": [],
-  "count": 71,
+  "count": 69,
   "date": "2016_9"
 }
