@@ -28,9 +28,17 @@ const config = {
             display:true,
             text:''
         },
+        legend: {
+            labels: {
+                fontColor: "black"
+            }
+        },
         scales: {
             xAxes: [{
-                display: true
+                display: true,
+                ticks: {
+                  fontColor: "black"
+                }
             }],
             yAxes: [{
                 display: true,
@@ -49,7 +57,7 @@ var beforeDraw = function (chart, easing) {
   var chartArea = chart.chartArea;
 
   ctx.save();
-  ctx.fillStyle = 'rgba(256, 256, 256, 1)';
+  ctx.fillStyle = 'white';
   ctx.fillRect(0, 0, WIDTH, HEIGHT);
   ctx.restore();
 };
