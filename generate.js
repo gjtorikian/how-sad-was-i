@@ -42,6 +42,13 @@ const config = {
             }],
             yAxes: [{
                 display: true,
+                ticks: {
+                  fontColor: "black",
+                  beginAtZero: true,
+                  max: 100,
+                  steps: 10,
+                  stepValue: 5
+                }
             }]
         },
         plugins: { }
