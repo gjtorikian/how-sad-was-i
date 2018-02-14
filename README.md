@@ -13,7 +13,7 @@ You'll need to create a profile for IBM Watson. Then, create a file called `.env
 
 ```
 PERSONALITY_INSIGHTS_USERNAME=<your_username>
-PERSONALITY_INSIGHTS_PASSWORD==<your_password>
+PERSONALITY_INSIGHTS_PASSWORD=<your_password>
 ```
 
 Then:
