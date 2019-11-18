@@ -22,5 +22,4 @@ Then:
 npm install
 node fetch.js # requires your Twitter Archive's tweets.csv
 node generate.js
-
 ```
